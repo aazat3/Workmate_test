@@ -1,6 +1,7 @@
 ## 1. Активация виртуального окружения
 
 ```powershell
+python -m venv .venv
 .venv/Scripts/Activate.ps1
 ```
 
